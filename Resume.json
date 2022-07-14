@@ -1,0 +1,92 @@
+{
+"basics": {
+"name": "Harshit Jeph",
+"label": "Student",
+"picture": "https://avatars.githubusercontent.com/u/109076601?s=400&u=5514db10b92895c8e971785c8708331e610b0ecc&v=4",
+"email": "2021kuec2013@iiitkota.ac.in",
+"phone": "+916378384155",
+
+"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and communication engineering.",
+"location": {
+"address": "Jaipur",
+"postalCode": "302039",
+"city": "Jaipur",
+"countryCode": " India",
+"region": "Rajasthan"
+},
+"profiles": [{
+"network": "Twitter",
+"username": "jeph_harshit",
+"url": "https://twitter.com/jeph_harshit"
+},
+{
+"network": "Github",
+"username": "HaniTheBeast",
+"url": "https://github.com/HaniTheBeast"
+},
+{
+"network": "linkedin",
+"username": "Harshit Jeph",
+"url": "https://www.linkedin.com/in/harshit-jeph-868271243/"
+},
+{
+"network": "Instagram",
+"username": "harshit__jeph09",
+"url": "https://www.instagram.com/harshit__jeph09/"
+}
+]
+},
+"work": [{
+"company": "IIITians Network",
+"position": "Organizing Head",
+"website": "https://iiitiansnetwork.com",
+"summary": "Working as a Organizing head at IIITians Network"
+},
+{
+"company": "neoncinematics",
+"position": "Video editor",
+"summary": "Working as a video editor in neon cinematic club of IIIT kota "
+}
+
+],
+"education": [{
+"institution": "Indian Institute of Information Technology,Kota",
+"area": "Engineering",
+"studyType": "Bachelor (hons)",
+"courses": [
+"Electronics and communication engineering"
+]
+}],
+
+"skills": [{
+"name": "Frontend Development",
+"level": "Master",
+"keywords": [
+"HTML",
+"CSS",
+"Git",
+"C/C++"
+]
+}],
+"languages": [{
+"language": "English",
+"fluency": "Native speaker"
+}],
+"interests": [{
+"name": "Cooking",
+"keywords": [
+"vegetarian",
+"Non vegetarian"
+]
+},
+{
+"name": "sports",
+"keywords": [
+"Basketball",
+"Badminton",
+"Cricket",
+"Football"
+]
+}
+]
+}
